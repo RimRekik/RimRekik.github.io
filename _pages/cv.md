@@ -11,11 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Undergraduate University Degree, Specialization in applied mathematics and physics
+  Preparatory Institute for Engineering Studies of Sfax, 2016-2018
+* Engineering Degree in Telecommunications (EUR-ACE), Specialization in data science
+  National School of Engineering of Tunis (ENIT), 2018-2021
+  
+* Research master’s Degree in Information Processing and Complexity of Living Systems, Specialization in sound, perception and image
+  National School of Engineering of Tunis (ENIT), 2020-2021
+* PhD in Computer Science
+  National Institute for Research in Digital Science and Technology (INRIA), 2021-2024
+  Supervisors: Dr. Stefanie Wuhrer, Dr. Anne-Helene Olivier
+  Topic: 3D human motion generation and evaluation.
+  Keywords: 3D computer vision, 3D human motion retargeting, 3D computer graphics, Subjective and objecive evaluation, Perception, User Experience 
+  
 
-Work experience
+Research Experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -27,14 +37,7 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
 
 Publications
 ======
@@ -42,18 +45,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Interests
 ======
-* Currently signed in to 43 different slack teams
+* 
