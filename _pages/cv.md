@@ -32,10 +32,8 @@ Education
 
 Research Experience
 ======
-
-    - PhD Researcher (Nov. 2021 - Nov. 2024)
-    
-    - End-of-course intern (Mars 2021 - Sept. 2021)
+- PhD Researcher (Nov. 2021 - Nov. 2024)
+- End-of-course intern (Mars 2021 - Sept. 2021)
     
  
 
