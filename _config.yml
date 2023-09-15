@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Rim Rekik dit nekhili"
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   bio              : "PhD student in 4D computer vision"
   location         : "Grenoble, France"
   employer         :
