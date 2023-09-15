@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+
 {% include base_path %}
 
 Education
@@ -32,14 +33,18 @@ Education
 Research Experience
 ======
 
+    - PhD Researcher (Nov. 2021 - Nov. 2024)
+    
+    - End-of-course intern (Mars 2021 - Sept. 2021)
+    
+ 
 
-
-Publications
-======
-  
-Teaching
-======
 
 Interests
 ======
+- Travelling
+  France, Italy, Spain, Croitia, United Kingdom, Portugal, Switzerland, Monaco
+- Music
+- Sports:
+  Pilates, swimming
 
