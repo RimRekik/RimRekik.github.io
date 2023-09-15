@@ -1,7 +1,7 @@
 ---
-title: "Correspondence-free online human motion retargeting"
+title: "[Correspondence-free online human motion retargeting](https://gitlab.inria.fr/rrekikdi/human-motion-retargeting2023)"
 #collection: publications
-permalink: https://gitlab.inria.fr/rrekikdi/human-motion-retargeting2023
+#permalink: https://gitlab.inria.fr/rrekikdi/human-motion-retargeting2023
 #excerpt: 'This paper is about Human motion retargeting'
 #date: 2015-10-01
 #venue: 'Journal 1'
