@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is Rim Rekik dit nekhili's home on the web!
+PhD in Compter science from the University of Grenoble Alpes ([UGA](https://www.univ-grenoble-alpes.fr/)). I am carrying my PhD (2021-Present) in the National Institute for Research in Digital Science and Technology ([INRIA](https://www.inria.fr/en)) under the supervision of Dr. [Stefanie Wuhrer](https://swuhrer.gitlabpages.inria.fr/website/) and Dr. [Anne-Helene Olivier](https://perso.univ-rennes2.fr/anne.helene.olivier). My research is centred arround 3D human motion generation and evaluation. More precisely, I am working on human motion retargeting, objective and subjective evaluation of virtual humans in animation and user studies.
 
-Lorem ipsum.
+I received, in 2021, an engineering degree in Telecommunications (EUR-ACE), specialization in data science and a research master’s Degree in Information Processing and Complexity of Living Systems, specialization in sound, perception and image from the National School of Engineering of Tunis ([ENIT](http://www.enit.rnu.tn/)). During my end-of-courses project (M2 internship), I worked in [INRIA](https://www.inria.fr/fr/centre-inria-universite-cote-azur) on non-stationary estimation of hyperparameters in inverse problems by Deep Learning.
