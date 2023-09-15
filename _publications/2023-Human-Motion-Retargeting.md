@@ -1,8 +1,8 @@
 ---
 title: "Correspondence-free online human motion retargeting"
-collection: publications
-#permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about Human motion retargeting'
+#collection: publications
+permalink: https://gitlab.inria.fr/rrekikdi/human-motion-retargeting2023
+#excerpt: 'This paper is about Human motion retargeting'
 #date: 2015-10-01
 #venue: 'Journal 1'
 paperurl: 'https://arxiv.org/pdf/2302.00556.pdf'
