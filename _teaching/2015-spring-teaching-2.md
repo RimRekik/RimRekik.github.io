@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Vision and visional representation "
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Graduate"
+#permalink: /teaching/2015-spring-teaching-1
+venue: "UGA"
+date: 2023-11-01
+location: "Grenoble, France"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This course includes:
+- Neural networks
+- Camera calibration
+- Augmented reality calibration
+- Reconstruction
