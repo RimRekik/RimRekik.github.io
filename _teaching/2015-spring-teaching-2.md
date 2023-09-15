@@ -1,7 +1,7 @@
 ---
 title: "Vision and visional representation "
 collection: teaching
-type: "Graduate"
+type: "Graduate course"
 #permalink: /teaching/2015-spring-teaching-1
 venue: "UGA"
 date: 2023-11-01
