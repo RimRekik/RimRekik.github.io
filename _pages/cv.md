@@ -40,9 +40,11 @@ Research Experience
 
 Interests
 ======
-- Travelling
+- Travelling:
+  
   France, Italy, Spain, Croitia, United Kingdom, Portugal, Switzerland, Monaco
 - Music
 - Sports:
+  
   Pilates, swimming
 
