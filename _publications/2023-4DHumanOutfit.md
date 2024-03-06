@@ -5,7 +5,7 @@ title: "[4DHumanOutfit: a multi-subject 4D dataset of human motion sequences in 
 #excerpt: 'This paper is about 4DHumanOutfit.'
 date: 2023-09-11
 venue: 'CVIU'
-paperurl: 'https://authors.elsevier.com/c/1hsPd3qy-3aj8p'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S1077314223002163'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
