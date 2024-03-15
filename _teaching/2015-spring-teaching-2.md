@@ -12,3 +12,4 @@ This course includes:
 - Camera calibration
 - Augmented reality calibration
 - Reconstruction
+- 3D modelling 
