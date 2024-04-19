@@ -5,7 +5,7 @@ collection: publications
 #excerpt: 'This paper is about image denoising.'
 date: 2024-04-22
 venue: 'Computer Graphics Forum'
-paperurl: 'https://hal.science/hal-03596605/document'
+paperurl: 'https://hal.science/hal-04553021/document'
 
 ---
 
