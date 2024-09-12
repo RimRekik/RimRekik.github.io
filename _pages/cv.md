@@ -49,7 +49,7 @@ Languages
 
 Interests
 ======
-- Travelling: France, Italy, Spain, Croitia, United Kingdom, Portugal, Switzerland, Monaco, Cyprus
+- Travelling: France, Italy, Spain, Croitia, United Kingdom, Portugal, Switzerland, Monaco, Cyprus, Seychelles
 - Music: Listening, singing and playing violin
 - Sports: Pilates, swimming
 
