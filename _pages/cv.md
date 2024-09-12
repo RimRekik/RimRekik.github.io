@@ -13,7 +13,7 @@ redirect_from:
 Education
 ======
 * PhD in Computer Science
-  - INRIA-[Morpheo](https://www.inria.fr/en/morpheo), 2021-2024
+  - INRIA-[Morpheo](https://www.inria.fr/en/morpheo), 2021-2025
   - Supervisors: Dr. Stefanie Wuhrer, Dr. Anne-Helene Olivier
   - Collaborators:Dr. [Jean-Sébastien Franco](https://morpheo.inrialpes.fr/~franco/), Dr. [Ludovic Hoyet](https://people.rennes.inria.fr/Ludovic.Hoyet/), Dr. [Katja Zibrek](https://cathrin7.github.io/)
   
